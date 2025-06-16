@@ -138,9 +138,8 @@ This project displays a **4-bit binary count (from 0 to 15)** using 4 LEDs conne
 Tinkercad Project
 
 📌 Purpose:
-The objective of this task is to count from 0 to 49 using two 7-segment displays, where the counting is triggered by interrupts. Once the count reaches 49, the system reverses and begins counting back to 0 — creating a full 0–49–0 loop. An external signal (from another Arduino or system) connected to pin D2 serves as the interrupt source.
+The objective of this task is to count from 0 to 49 using two 7-segment displays, where the counting is triggered by interrupts. Once the count reaches 49, the system reverses and begins counting back to 0 — creating a full 0–49–0 loop. An external signal (from another Arduino) connected to pin D2 serves as the interrupt source.
 
-There is no pushbutton in this task — the interrupt is externally triggered, likely by a second Arduino. This makes it an exercise in device-to-device communication using interrupts.
 
 🔗 Key Components:
 2 × Arduino Uno (one as main controller, one as interrupt generator)
