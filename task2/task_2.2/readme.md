@@ -21,7 +21,7 @@ This Arduino sketch implements a 4-bit binary counter using the lower 4 bits of 
 
 ## Hardware Requirements
 
-* Arduino board (e.g., Uno, Nano)
+* Arduino board UNO R3
 * 4 LEDs
-* 4 resistors (220Ω recommended)
+* 4 resistors (220Ω)
 * Breadboard and jumper wires
