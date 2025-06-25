@@ -25,7 +25,7 @@ This Arduino sketch gradually changes the brightness of an LED connected to **di
 
 ## Hardware Requirements
 
-* Arduino board (e.g., Uno, Nano)
+* Arduino board UNO R3
 * LED
-* Resistor (220Ω recommended)
+* Resistor (220Ω)
 * Breadboard and jumper wires
