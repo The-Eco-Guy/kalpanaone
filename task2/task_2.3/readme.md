@@ -24,7 +24,7 @@ This Arduino sketch drives a two-digit 7-segment display using shift registers. 
 
 ## Hardware Requirements
 
-* Arduino board (e.g., Uno, Nano)
+* Arduino board
 * 2-digit 7-segment display
 * 74HC595 shift register(s)
 * Resistors for current limiting
