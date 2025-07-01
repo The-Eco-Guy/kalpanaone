@@ -1,4 +1,4 @@
-collective_readme_content = """# Project-Kalpana  
+
 **Embedded Systems & Automation – Task Phase**  
 **Task-3**
 
