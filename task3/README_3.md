@@ -9,8 +9,8 @@ Displays numbers from 0 to 49 using a 7-segment display controlled via the Adafr
 Demonstrates I2C communication with Adafruit_7segment and GFX libraries.  
 Simplifies display management with built-in hardware decoding.
 
-🦾 **Servo Sweep (0°–90°–0°)**  
-Sweeps a positional micro servo from 0° to 90° and back continuously.  
+🦾 **Servo Sweep (0°–x°–0°)**  
+Sweeps a positional micro servo from 0° to x° and back continuously.  
 Utilizes the Servo library and pulse width range customization.  
 Showcases PWM control and precise angle-based motion.
 
